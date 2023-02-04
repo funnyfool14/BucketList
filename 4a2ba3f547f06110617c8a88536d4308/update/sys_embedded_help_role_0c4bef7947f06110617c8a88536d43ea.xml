@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_953261_bucket_li.自分だけ" name="x_953261_bucket_li.自分だけ">bf3bef7947f06110617c8a88536d43e6</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-04 22:29:40</sys_created_on>
+        <sys_id>0c4bef7947f06110617c8a88536d43ea</sys_id>
+        <sys_name>bf3bef7947f06110617c8a88536d43e6</sys_name>
+        <sys_package display_value="Bucket List" source="x_953261_bucket_li">4a2ba3f547f06110617c8a88536d4308</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Bucket List">4a2ba3f547f06110617c8a88536d4308</sys_scope>
+        <sys_update_name>sys_embedded_help_role_0c4bef7947f06110617c8a88536d43ea</sys_update_name>
+    </sys_embedded_help_role>
+</record_update>
