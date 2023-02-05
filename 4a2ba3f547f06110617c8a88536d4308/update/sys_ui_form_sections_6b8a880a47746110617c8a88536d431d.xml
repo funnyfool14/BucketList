@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="6b8a880a47746110617c8a88536d431d" sys_domain="global" table="x_953261_bucket_li_bucket_item" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-05 00:46:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e78a880a47746110617c8a88536d4320</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_953261_bucket_li_bucket_item" name="x_953261_bucket_li_bucket_item" sys_domain="global" view="Default view">6b8a880a47746110617c8a88536d431d</sys_ui_form>
+            <sys_ui_section caption="bucket item" display_value="bucket item" name="x_953261_bucket_li_bucket_item" sys_domain="global" view="Default view">7865c4ce47346110617c8a88536d433f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-05 00:46:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-05 00:49:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>733b044a47746110617c8a88536d43f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_953261_bucket_li_bucket_item" name="x_953261_bucket_li_bucket_item" sys_domain="global" view="Default view">6b8a880a47746110617c8a88536d431d</sys_ui_form>
+            <sys_ui_section caption="詳細" display_value="詳細" name="x_953261_bucket_li_bucket_item" sys_domain="global" view="Default view">3b3b044a47746110617c8a88536d4356</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-05 00:49:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-05 00:55:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b69c088a47746110617c8a88536d4392</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_953261_bucket_li_bucket_item" name="x_953261_bucket_li_bucket_item" sys_domain="global" view="Default view">6b8a880a47746110617c8a88536d431d</sys_ui_form>
+            <sys_ui_section caption="準備" display_value="準備" name="x_953261_bucket_li_bucket_item" sys_domain="global" view="Default view">ba9c088a47746110617c8a88536d438f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-05 00:55:24</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_953261_bucket_li_bucket_item</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-05 00:46:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6b8a880a47746110617c8a88536d431d</sys_id>
+            <sys_name>x_953261_bucket_li_bucket_item</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Bucket List" source="x_953261_bucket_li">4a2ba3f547f06110617c8a88536d4308</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bucket List">4a2ba3f547f06110617c8a88536d4308</sys_scope>
+            <sys_update_name>sys_ui_form_sections_6b8a880a47746110617c8a88536d431d</sys_update_name>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
