@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="dde1b77147346110617c8a88536d437f" label="Bucket Item" max_length="40" name="x_953261_bucket_li_bucket_item" type="collection">
+        <element label="費用" max_length="40" name="cost" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="やりたい事" mandatory="true" max_length="125" name="item" type="string"/>
+        <element label="参考URL" max_length="1024" name="url" type="url"/>
+        <element choice="1" label="期限" mandatory="true" max_length="40" name="when" type="integer">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="45" sequence="0" value="45"/>
+                <element inactive_on_update="false" label="45歳まで" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="50歳まで" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="55歳まで" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="60歳まで" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="65歳まで" sequence="4" value="5"/>
+                <element inactive_on_update="false" label="70歳まで" sequence="5" value="6"/>
+                <element inactive_on_update="false" label="75歳まで" sequence="6" value="7"/>
+                <element inactive_on_update="false" label="80歳まで" sequence="7" value="8"/>
+            </choice>
+        </element>
+    </element>
+</database>
