@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="dde1b77147346110617c8a88536d437f" label="Bucket Item" max_length="40" name="x_953261_bucket_li_bucket_item" type="collection">
-        <element attributes="encode_utf8=false" label="どうする" mandatory="true" max_length="32" name="how" reference="sys_user" type="reference"/>
-        <element attributes="edge_encryption_enabled=true" label="やりたい事" mandatory="true" max_length="125" name="item" type="string"/>
-        <index name="index">
-            <element name="how"/>
-        </index>
+        <element attributes="edge_encryption_enabled=true" display="true" label="やりたい事" mandatory="true" max_length="125" name="item" type="string"/>
+        <element label="参考" max_length="1024" name="url" type="url"/>
+        <element label="何を" max_length="40" name="what" type="string"/>
+        <element label="いつ" max_length="40" name="when" type="integer"/>
+        <element label="どこで" max_length="40" name="where" type="string"/>
+        <element label="誰と" max_length="40" name="who" type="string"/>
     </element>
 </database>

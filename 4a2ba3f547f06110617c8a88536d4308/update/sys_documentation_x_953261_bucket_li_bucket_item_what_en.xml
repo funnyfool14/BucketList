@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="what" label="何を" language="en" table="x_953261_bucket_li_bucket_item">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>what</element>
+            <help/>
+            <hint/>
+            <label>何を</label>
+            <language>en</language>
+            <name>x_953261_bucket_li_bucket_item</name>
+            <plural>何をs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-04 23:56:52</sys_created_on>
+            <sys_name>何を</sys_name>
+            <sys_package display_value="Bucket List" source="x_953261_bucket_li">4a2ba3f547f06110617c8a88536d4308</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Bucket List">4a2ba3f547f06110617c8a88536d4308</sys_scope>
+            <sys_update_name>sys_documentation_x_953261_bucket_li_bucket_item_what_en</sys_update_name>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
