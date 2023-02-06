@@ -5,7 +5,6 @@
         <element label="参考URL" max_length="1024" name="url" type="url"/>
         <element choice="1" label="期限" mandatory="true" max_length="40" name="when" type="integer">
             <choice>
-                <element inactive="true" inactive_on_update="true" label="45" sequence="0" value="45"/>
                 <element inactive_on_update="false" label="45歳まで" sequence="0" value="1"/>
                 <element inactive_on_update="false" label="50歳まで" sequence="1" value="2"/>
                 <element inactive_on_update="false" label="55歳まで" sequence="2" value="3"/>
