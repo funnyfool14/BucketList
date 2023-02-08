@@ -14,6 +14,34 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>what</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-07 21:10:48</sys_created_on>
+            <sys_id>86f5b6f247702110617c8a88536d43d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="bucket item" display_value="bucket item" name="x_953261_bucket_li_bucket_item" sys_domain="global" view="Default view">7865c4ce47346110617c8a88536d433f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-07 21:10:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>display</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-07 21:16:28</sys_created_on>
+            <sys_id>0d47bef247702110617c8a88536d43a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="bucket item" display_value="bucket item" name="x_953261_bucket_li_bucket_item" sys_domain="global" view="Default view">7865c4ce47346110617c8a88536d433f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-07 21:16:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption>bucket item</caption>
             <header>false</header>

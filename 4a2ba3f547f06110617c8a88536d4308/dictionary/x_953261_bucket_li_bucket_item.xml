@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="dde1b77147346110617c8a88536d437f" label="Bucket Item" max_length="40" name="x_953261_bucket_li_bucket_item" type="collection">
         <element label="費用" max_length="40" name="cost" type="integer"/>
+        <element label="表示" max_length="40" name="display" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" display="true" label="やりたい事" mandatory="true" max_length="125" name="item" type="string"/>
         <element label="参考URL" max_length="1024" name="url" type="url"/>
+        <element label="必要なもの" max_length="40" name="what" type="string"/>
         <element choice="1" label="期限" mandatory="true" max_length="40" name="when" type="integer">
             <choice>
                 <element inactive="true" inactive_on_update="true" label="45" sequence="0" value="45"/>
